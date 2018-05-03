@@ -1,0 +1,10 @@
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\My things\Cursuri IT\Curs C# Romana\Exercitii c#\Calculator\Calculator\obj\Debug\Calculator.pdb
